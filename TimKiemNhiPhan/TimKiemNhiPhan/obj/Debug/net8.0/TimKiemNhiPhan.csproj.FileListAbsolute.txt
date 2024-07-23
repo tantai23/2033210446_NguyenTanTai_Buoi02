@@ -1,0 +1,14 @@
+D:\PTTKTT\2033210446_NguyenTanTai_Buoi02\TimKiemNhiPhan\TimKiemNhiPhan\bin\Debug\net8.0\TimKiemNhiPhan.exe
+D:\PTTKTT\2033210446_NguyenTanTai_Buoi02\TimKiemNhiPhan\TimKiemNhiPhan\bin\Debug\net8.0\TimKiemNhiPhan.deps.json
+D:\PTTKTT\2033210446_NguyenTanTai_Buoi02\TimKiemNhiPhan\TimKiemNhiPhan\bin\Debug\net8.0\TimKiemNhiPhan.runtimeconfig.json
+D:\PTTKTT\2033210446_NguyenTanTai_Buoi02\TimKiemNhiPhan\TimKiemNhiPhan\bin\Debug\net8.0\TimKiemNhiPhan.dll
+D:\PTTKTT\2033210446_NguyenTanTai_Buoi02\TimKiemNhiPhan\TimKiemNhiPhan\bin\Debug\net8.0\TimKiemNhiPhan.pdb
+D:\PTTKTT\2033210446_NguyenTanTai_Buoi02\TimKiemNhiPhan\TimKiemNhiPhan\obj\Debug\net8.0\TimKiemNhiPhan.GeneratedMSBuildEditorConfig.editorconfig
+D:\PTTKTT\2033210446_NguyenTanTai_Buoi02\TimKiemNhiPhan\TimKiemNhiPhan\obj\Debug\net8.0\TimKiemNhiPhan.AssemblyInfoInputs.cache
+D:\PTTKTT\2033210446_NguyenTanTai_Buoi02\TimKiemNhiPhan\TimKiemNhiPhan\obj\Debug\net8.0\TimKiemNhiPhan.AssemblyInfo.cs
+D:\PTTKTT\2033210446_NguyenTanTai_Buoi02\TimKiemNhiPhan\TimKiemNhiPhan\obj\Debug\net8.0\TimKiemNhiPhan.csproj.CoreCompileInputs.cache
+D:\PTTKTT\2033210446_NguyenTanTai_Buoi02\TimKiemNhiPhan\TimKiemNhiPhan\obj\Debug\net8.0\TimKiemNhiPhan.dll
+D:\PTTKTT\2033210446_NguyenTanTai_Buoi02\TimKiemNhiPhan\TimKiemNhiPhan\obj\Debug\net8.0\refint\TimKiemNhiPhan.dll
+D:\PTTKTT\2033210446_NguyenTanTai_Buoi02\TimKiemNhiPhan\TimKiemNhiPhan\obj\Debug\net8.0\TimKiemNhiPhan.pdb
+D:\PTTKTT\2033210446_NguyenTanTai_Buoi02\TimKiemNhiPhan\TimKiemNhiPhan\obj\Debug\net8.0\TimKiemNhiPhan.genruntimeconfig.cache
+D:\PTTKTT\2033210446_NguyenTanTai_Buoi02\TimKiemNhiPhan\TimKiemNhiPhan\obj\Debug\net8.0\ref\TimKiemNhiPhan.dll

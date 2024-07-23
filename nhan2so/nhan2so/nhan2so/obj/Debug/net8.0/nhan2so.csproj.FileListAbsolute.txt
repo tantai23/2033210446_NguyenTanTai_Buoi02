@@ -1,0 +1,14 @@
+D:\PTTKTT\2033210446_NguyenTanTai_Buoi02\nhan2so\nhan2so\nhan2so\bin\Debug\net8.0\nhan2so.exe
+D:\PTTKTT\2033210446_NguyenTanTai_Buoi02\nhan2so\nhan2so\nhan2so\bin\Debug\net8.0\nhan2so.deps.json
+D:\PTTKTT\2033210446_NguyenTanTai_Buoi02\nhan2so\nhan2so\nhan2so\bin\Debug\net8.0\nhan2so.runtimeconfig.json
+D:\PTTKTT\2033210446_NguyenTanTai_Buoi02\nhan2so\nhan2so\nhan2so\bin\Debug\net8.0\nhan2so.dll
+D:\PTTKTT\2033210446_NguyenTanTai_Buoi02\nhan2so\nhan2so\nhan2so\bin\Debug\net8.0\nhan2so.pdb
+D:\PTTKTT\2033210446_NguyenTanTai_Buoi02\nhan2so\nhan2so\nhan2so\obj\Debug\net8.0\nhan2so.GeneratedMSBuildEditorConfig.editorconfig
+D:\PTTKTT\2033210446_NguyenTanTai_Buoi02\nhan2so\nhan2so\nhan2so\obj\Debug\net8.0\nhan2so.AssemblyInfoInputs.cache
+D:\PTTKTT\2033210446_NguyenTanTai_Buoi02\nhan2so\nhan2so\nhan2so\obj\Debug\net8.0\nhan2so.AssemblyInfo.cs
+D:\PTTKTT\2033210446_NguyenTanTai_Buoi02\nhan2so\nhan2so\nhan2so\obj\Debug\net8.0\nhan2so.csproj.CoreCompileInputs.cache
+D:\PTTKTT\2033210446_NguyenTanTai_Buoi02\nhan2so\nhan2so\nhan2so\obj\Debug\net8.0\nhan2so.dll
+D:\PTTKTT\2033210446_NguyenTanTai_Buoi02\nhan2so\nhan2so\nhan2so\obj\Debug\net8.0\refint\nhan2so.dll
+D:\PTTKTT\2033210446_NguyenTanTai_Buoi02\nhan2so\nhan2so\nhan2so\obj\Debug\net8.0\nhan2so.pdb
+D:\PTTKTT\2033210446_NguyenTanTai_Buoi02\nhan2so\nhan2so\nhan2so\obj\Debug\net8.0\nhan2so.genruntimeconfig.cache
+D:\PTTKTT\2033210446_NguyenTanTai_Buoi02\nhan2so\nhan2so\nhan2so\obj\Debug\net8.0\ref\nhan2so.dll
